@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **golibabdullaev8@gmail.com**
 
-- 📄 Know about my experiences [here]([golibabdullayev.uz](https://hh.uz/resume/4387e960ff0b442ecc0039ed1f415668744434))
+- 📄 Know about my experiences [here](https://hh.uz/resume/4387e960ff0b442ecc0039ed1f415668744434)
 
 
 <h3 align="left">Connect with me:</h3>
