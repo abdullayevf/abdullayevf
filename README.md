@@ -5,23 +5,16 @@
 
 - 🔭 I’m currently working on **Kwork platform as a freelancer**
 
-- 🌱 I’m currently learning **NuxtJs, SvelteJs, Prisma, PostgreSQl**
+- 👯 I’m looking to start get job **on real company**
 
-- 👯 I’m looking to start get jobs **on Upwork too**
-
-- 🤝 I’m looking for help with **understanding postgreSQl**
-
-- 👨‍💻 All of my projects are available at [victor.uz/portfolio](victor.uz/portfolio)
-
-- 📝 I sometimes write articles on [https://t.me/golibabdullayev](https://t.me/golibabdullayev)
+- 📝 I sometimes write articles on [telegram](https://t.me/golibabdullayev)
 
 - 💬 Ask me about **vue , javascript**
 
 - 📫 How to reach me **golibabdullaev8@gmail.com**
 
-- 📄 Know about my experiences [victor.uz/cv](victor.uz/cv)
+- 📄 Know about my experiences [victor.uz/cv](golibabdullayev.uz)
 
-- ⚡ Fun fact **I think its funny with me, dears said)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
