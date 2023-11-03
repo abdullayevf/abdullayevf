@@ -3,19 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullayevf&label=Profile%20views&color=0e75b6&style=flat" alt="abdullayevf" /> </p>
 
-- 🔭 I’m currently working on **Kwork platform as a freelancer**
-
-- 👯 I’m looking to start get job **on real company**
-
-- 📝 I sometimes write articles on [telegram](https://t.me/golibabdullayev)
-
-- 💬 Ask me about **vue , javascript**
-
-- 📫 How to reach me **golibabdullaev8@gmail.com**
-
-- 📄 Know about my experiences [victor.uz/cv](golibabdullayev.uz)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdulllayevv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdulllayevv/" height="30" width="40" /></a>
