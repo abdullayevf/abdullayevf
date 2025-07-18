@@ -5,23 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullayevf" alt="abdullayevf" /></a> </p>
 
-- 🔭 I’m currently working on [Pharmgo](https://github.com/abdullayevf/pharmgo)
-
-- 🌱 I’m currently learning **Devops at Schoo21**
-
-- 👯 I’m looking to collaborate on [chat-app](https://github.com/abdullayevf/chat-app)
-
-- 🤝 I’m looking for help with **finding a gf (kdidding, finding a job)**
-
-- 👨‍💻 All of my projects are available at [golibabdullayev.uz/portfolio](https://golibabdullayev.uz/portfolio)
-
-- 📝 I regularly write articles on [golibabdullayev.uz/scrolls](https://golibabdullayev.uz/scrolls)
-
-- 💬 Ask me about **vue, typescript and movies)**
-
-- 📫 How to reach me **golibabdullayev@outlook.com**
-
-- 📄 Know about my experiences [golibabdullayev.uz/resume](https://golibabdullayev.uz/resume)
 
 - ⚡ Fun fact **I can do 15+ pull ups**
 
