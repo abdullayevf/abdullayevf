@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with **finding a gf (kdidding, finding a job)**
 
-- 👨‍💻 All of my projects are available at [golibabdullayev.uz/portfolio](golibabdullayev.uz/portfolio)
+- 👨‍💻 All of my projects are available at [golibabdullayev.uz/portfolio](https://golibabdullayev.uz/portfolio)
 
-- 📝 I regularly write articles on [golibabdullayev.uz/scrolls](golibabdullayev.uz/scrolls)
+- 📝 I regularly write articles on [golibabdullayev.uz/scrolls](https://golibabdullayev.uz/scrolls)
 
 - 💬 Ask me about **vue, typescript and movies)**
 
 - 📫 How to reach me **golibabdullayev@outlook.com**
 
-- 📄 Know about my experiences [golibabdullayev.uz/resume](golibabdullayev.uz/resume)
+- 📄 Know about my experiences [golibabdullayev.uz/resume](https://golibabdullayev.uz/resume)
 
 - ⚡ Fun fact **I can do 15+ pull ups**
 
